@@ -1,85 +1,79 @@
 fileFormatVersion: 2
-guid: d45093152de0f764daf60e68ad8c7cc7
+guid: e9fb7e865c1237641bb1ec5373f070e6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 21300000
-    second: kevin2 0
+      213: 492870337947336837
+    second: Sprite-0002 0
   - first:
-      213: 21300002
-    second: kevin2 1
+      213: -2109759694743463873
+    second: Sprite-0002 1
   - first:
-      213: 21300004
-    second: kevin2 2
+      213: 5200541314251257048
+    second: Sprite-0002 2
   - first:
-      213: 21300006
-    second: kevin2 3
+      213: -2954689832740509908
+    second: Sprite-0002 3
   - first:
-      213: 21300008
-    second: kevin2 4
+      213: -7705735826981775216
+    second: Sprite-0002 4
   - first:
-      213: 21300010
-    second: kevin2 5
+      213: -5068251301198281380
+    second: Sprite-0002 5
   - first:
-      213: 21300012
-    second: kevin2 6
+      213: 9027363703015826589
+    second: Sprite-0002 6
   - first:
-      213: 21300014
-    second: kevin2 7
+      213: 6933516134007750867
+    second: Sprite-0002 7
   - first:
-      213: 21300016
-    second: kevin2 8
+      213: 5242331725413341719
+    second: Sprite-0002 8
   - first:
-      213: 21300018
-    second: kevin2 9
+      213: -4410964932785748767
+    second: Sprite-0002 9
   - first:
-      213: 21300020
-    second: kevin2 10
+      213: -3015201935664739063
+    second: Sprite-0002 10
   - first:
-      213: 21300022
-    second: kevin2 11
+      213: -2461604550574005831
+    second: Sprite-0002 11
   - first:
-      213: 21300024
-    second: kevin2 12
+      213: 2568505940084061789
+    second: Sprite-0002 12
   - first:
-      213: 21300026
-    second: kevin2 13
+      213: 2871207889493366997
+    second: Sprite-0002 13
   - first:
-      213: 21300028
-    second: kevin2 14
+      213: -5699294011669503384
+    second: Sprite-0002 14
   - first:
-      213: 21300030
-    second: kevin2 15
+      213: 1137977054898207732
+    second: Sprite-0002 15
   - first:
-      213: 21300032
-    second: kevin2 16
+      213: 3739182976143866349
+    second: Sprite-0002 16
   - first:
-      213: 21300034
-    second: kevin2 17
+      213: 3852070830240585511
+    second: Sprite-0002 17
   - first:
-      213: 21300036
-    second: kevin2 18
+      213: 2861410893586830296
+    second: Sprite-0002 18
   - first:
-      213: 21300038
-    second: kevin2 19
+      213: 2194055767967633218
+    second: Sprite-0002 19
   - first:
-      213: 21300040
-    second: kevin2 20
+      213: -2192232930013635690
+    second: Sprite-0002 20
   - first:
-      213: 21300042
-    second: kevin2 21
+      213: 2158924836915945484
+    second: Sprite-0002 21
   - first:
-      213: 21300044
-    second: kevin2 22
+      213: 5542504168683454323
+    second: Sprite-0002 22
   - first:
-      213: 21300046
-    second: kevin2 23
-  - first:
-      213: 21300048
-    second: kevin2 24
-  - first:
-      213: 21300050
-    second: kevin2 25
+      213: -4761922079427254432
+    second: Sprite-0002 23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -135,11 +129,11 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
+    maxTextureSize: 256
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -148,18 +142,18 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: kevin2 0
+      name: Sprite-0002 0
       rect:
         serializedVersion: 2
         x: 0
-        y: 192
-        width: 64
-        height: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -167,20 +161,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 135d15ebf95a5ea44a712557f1cdae80
-      internalID: 21300000
+      spriteID: 5808da506f607d600800000000000000
+      internalID: 492870337947336837
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 1
+      name: Sprite-0002 1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3811615cb0a8b2e0800000000000000
+      internalID: -2109759694743463873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 2
       rect:
         serializedVersion: 2
         x: 64
-        y: 192
-        width: 64
-        height: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -188,20 +203,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1bf3d278f38fa6c4cb044c20dd97f4db
-      internalID: 21300002
+      spriteID: 8d470bb85c80c2840800000000000000
+      internalID: 5200541314251257048
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 2
+      name: Sprite-0002 3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c272b027045def6d0800000000000000
+      internalID: -2954689832740509908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 4
       rect:
         serializedVersion: 2
         x: 128
-        y: 192
-        width: 64
-        height: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -209,20 +245,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 15cb3411d9e0f454196d69cb79acd95f
-      internalID: 21300004
+      spriteID: 09810c3971abf0590800000000000000
+      internalID: -7705735826981775216
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 3
+      name: Sprite-0002 5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c554aa75b44f9a9b0800000000000000
+      internalID: -5068251301198281380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 6
       rect:
         serializedVersion: 2
         x: 192
-        y: 192
-        width: 64
-        height: 64
+        y: 96
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -230,20 +287,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 9a93e5de477460d41943e358d8fe4a3e
-      internalID: 21300006
+      spriteID: d9463887573a74d70800000000000000
+      internalID: 9027363703015826589
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 4
+      name: Sprite-0002 7
       rect:
         serializedVersion: 2
-        x: 256
-        y: 192
-        width: 64
-        height: 64
+        x: 224
+        y: 96
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -251,251 +308,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d1ccf6b1f4754be46a9cc6a0f50943d0
-      internalID: 21300008
+      spriteID: 3d0c8f3403cc83060800000000000000
+      internalID: 6933516134007750867
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 5
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: c3a3190a921a3bb4893273c3e096552f
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 6
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: ab4abcca0a2bde94982cb4d967aae9d0
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 7
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 192
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 8d323a4ed4c77e5439fdcd7bdba1a414
-      internalID: 21300014
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 8
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 0de15dbebf39d614d9d10b9de8c6c944
-      internalID: 21300016
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 9
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4485a9f6b73c0574fa37cd1e158d6461
-      internalID: 21300018
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 10
-      rect:
-        serializedVersion: 2
-        x: 128
-        y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 90ee4914e3a87804080c9bf5d3cb7e3c
-      internalID: 21300020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 11
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 102d7cad19e2d3744845556e43827cfc
-      internalID: 21300022
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 12
-      rect:
-        serializedVersion: 2
-        x: 256
-        y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2976d053b6b17f444aac47e49e8d0d52
-      internalID: 21300024
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 13
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d45d8f3ba8a71284fae2b7cb59d6d25d
-      internalID: 21300026
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 14
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b4b83b43ee26b1545bfc5526df9957ba
-      internalID: 21300028
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 15
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 128
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 4de0a9e540deb134da3bdd790441c8ca
-      internalID: 21300030
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 16
+      name: Sprite-0002 8
       rect:
         serializedVersion: 2
         x: 0
         y: 64
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -503,20 +329,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 20700fabb906f0e48b1241351851847b
-      internalID: 21300032
+      spriteID: 71ad500ede080c840800000000000000
+      internalID: 5242331725413341719
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 17
+      name: Sprite-0002 9
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4c99093ca19c2c0800000000000000
+      internalID: -4410964932785748767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 10
       rect:
         serializedVersion: 2
         x: 64
         y: 64
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -524,20 +371,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7b4dd6498da22f94eb7f7bca9e39d12b
-      internalID: 21300034
+      spriteID: 90d02a290d9d726d0800000000000000
+      internalID: -3015201935664739063
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 18
+      name: Sprite-0002 11
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b12d8114bf96ddd0800000000000000
+      internalID: -2461604550574005831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 12
       rect:
         serializedVersion: 2
         x: 128
         y: 64
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -545,20 +413,41 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f0d08aec976ca0446836118eddadefbe
-      internalID: 21300036
+      spriteID: d56f0324b8a25a320800000000000000
+      internalID: 2568505940084061789
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 19
+      name: Sprite-0002 13
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d81d89fc5498d720800000000000000
+      internalID: 2871207889493366997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 14
       rect:
         serializedVersion: 2
         x: 192
         y: 64
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -566,20 +455,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7e5aea696348e664d8a0fca0d696ec21
-      internalID: 21300038
+      spriteID: 862ade3ea4a08e0b0800000000000000
+      internalID: -5699294011669503384
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 20
+      name: Sprite-0002 15
       rect:
         serializedVersion: 2
-        x: 256
+        x: 224
         y: 64
-        width: 64
-        height: 64
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -587,83 +476,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2561a10fa7e68ba4fb6fea3174cb2c00
-      internalID: 21300040
+      spriteID: 4fbb0c72a18eacf00800000000000000
+      internalID: 1137977054898207732
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 21
-      rect:
-        serializedVersion: 2
-        x: 320
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5c0f9713497c85f43b6d6d039fda11d3
-      internalID: 21300042
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 22
-      rect:
-        serializedVersion: 2
-        x: 384
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 936d9b1f2cb99b446b4d284377a45e30
-      internalID: 21300044
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 23
-      rect:
-        serializedVersion: 2
-        x: 448
-        y: 64
-        width: 64
-        height: 64
-      alignment: 7
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 1309e291a5e29e348ac8d78cc5481e7b
-      internalID: 21300046
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: kevin2 24
+      name: Sprite-0002 16
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 64
-        height: 64
+        y: 32
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -671,20 +497,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: caae22bc92129cd43bde02361535c6c0
-      internalID: 21300048
+      spriteID: de93e331b1f34e330800000000000000
+      internalID: 3739182976143866349
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: kevin2 25
+      name: Sprite-0002 17
       rect:
         serializedVersion: 2
-        x: 64
-        y: 0
-        width: 64
-        height: 64
+        x: 32
+        y: 32
+        width: 32
+        height: 32
       alignment: 7
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -692,8 +518,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 08f6170c44790404ca785c07cca73f3b
-      internalID: 21300050
+      spriteID: 727522ec20e457530800000000000000
+      internalID: 3852070830240585511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d31dac1c06c5b720800000000000000
+      internalID: 2861410893586830296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f8b1ba81ad27e10800000000000000
+      internalID: 2194055767967633218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b9f9dd3cf9391e0800000000000000
+      internalID: -2192232930013635690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00a42163ba06fd10800000000000000
+      internalID: 2158924836915945484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fbf7c0d2eeaec40800000000000000
+      internalID: 5542504168683454323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite-0002 23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06726a739114aedb0800000000000000
+      internalID: -4761922079427254432
       vertices: []
       indices: 
       edges: []
@@ -701,7 +653,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 8a86190f46914714aa56d9c054ef99cc
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
