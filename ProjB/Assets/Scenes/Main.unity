@@ -494,7 +494,8 @@ Transform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0.66, y: 0.37, z: 0.08356911}
   m_LocalScale: {x: 0.043021396, y: 0.043021396, z: 0.043021396}
-  m_Children: []
+  m_Children:
+  - {fileID: 457214085}
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -513,6 +514,8 @@ MonoBehaviour:
   moveSpeed: 5
   rb: {fileID: 297085190}
   animator: {fileID: 297085189}
+  firePoint: {fileID: 457214085}
+  bullet: {fileID: 5812112069937774599, guid: 9a67e911d3d62b142ac7d34b3933ab31, type: 3}
 --- !u!61 &297085194
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -539,6 +542,36 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 11.5050125, y: 16.937445}
   m_EdgeRadius: 0
+--- !u!1 &457214084
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 457214085}
+  m_Layer: 0
+  m_Name: FirePoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &457214085
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 457214084}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 1.72, y: 11.82, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 297085192}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
   m_ObjectHideFlags: 0
@@ -637,7 +670,7 @@ GameObject:
   - component: {fileID: 795199119}
   m_Layer: 0
   m_Name: Kevin
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -2042,7 +2075,7 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: 5.8060246, y: 3.908102}
+  - {x: 5.982346, y: 3.908102}
   - {x: -4.914887, y: 3.908102}
   - {x: -4.871484, y: -2.385551}
   - {x: 6.001695, y: -2.3855512}
@@ -2059,7 +2092,7 @@ GameObject:
   - component: {fileID: 2138440213}
   m_Layer: 0
   m_Name: Grid
-  m_TagString: Untagged
+  m_TagString: Boundary
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

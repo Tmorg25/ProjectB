@@ -17,6 +17,9 @@ public class NG_movement : MonoBehaviour
 
     private Camera cam;
 
+    public Transform firePoint;
+    public GameObject bullet;
+
     private void Start()
     {
         cam = Camera.main;
@@ -28,7 +31,7 @@ public class NG_movement : MonoBehaviour
         //input
 
         handleMovement();
-        
+        mouseDirection();
 
         
 
@@ -67,12 +70,21 @@ public class NG_movement : MonoBehaviour
     {
         Vector3 mouse = Input.mousePosition;
 
-        Vector3 screenpoint = cam.WorldToScreenPoint(transform.localPosition);
+        Vector3 screenpoint = cam.WorldToScreenPoint(firePoint.position);
 
         Vector2 offset = new Vector2(mouse.x - screenpoint.x, mouse.y - screenpoint.y);
 
+        float angle = Mathf.Atan2(offset.y, offset.x) * Mathf.Rad2Deg;
+
+        firePoint.rotation = Quaternion.Euler(0f, 0f, angle);
+
+        if (Input.GetMouseButtonDown(1))
+        {
+
+            Instantiate(bullet, firePoint.position, firePoint.rotation);
+        }
 
 
-        print(offset);
+
     }
 }
